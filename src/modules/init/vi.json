@@ -1,0 +1,18 @@
+{
+    "welcome": "Xin chào",
+    "email": "Địa chỉ Email",
+    "password": "Mật khẩu",
+    "rememberMe": "Lưu thông tin đăng nhập",
+    "emailRequire": "Vui lòng nhập địa chỉ email",
+    "emailInvalid": "Địa chỉ email không hợp lệ",
+    "passwordRequire": "Vui lòng nhập mật khẩu",
+    "minPasswordInvalid": "Mật khẩu tối thiểu 4 ký tự",
+    "register": "Đăng nhập",
+ 
+    "yeuCauNhapEmail": "Yêu cầu nhập email",
+    "emailKhongHopLe": "Email không hợp lệ",
+    "nhapMatKhau": "Hãy nhập mật khẩu",
+    "matKhau4kt": "Mật khẩu quá ngắn phải lớn hơn 4 ký tự"
+
+  }
+  
